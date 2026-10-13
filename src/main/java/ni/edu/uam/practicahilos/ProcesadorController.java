@@ -1,5 +1,5 @@
 package ni.edu.uam.practicahilos;
-
+//nota
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
